@@ -1,0 +1,12 @@
+[SSH]
+enabled = true
+host = my_user@my_host:my_ssh
+keyname = my_private_key
+db_port = my_database_port
+
+[PSQL]
+db = my_database_name
+host = my_database_host (probably 127.0.0.1)
+port = my_database_port 
+username = my_username
+password = my_database_password
